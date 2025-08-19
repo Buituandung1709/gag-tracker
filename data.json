@@ -1,1 +1,31 @@
-a
+[
+  {
+    "id": "hoathomkieuhanh",
+    "title": "Hoa Thơm Kiêu Hãnh",
+    "type": "anime",
+    "year": 2025,
+    "genres": ["Drama", "Romance"],
+    "description": "Mặc dù liền kề nhau, Trường Trung học Công lập Chidori và Học viện Tư thục Kikyo toàn nữ sinh dường như tồn tại ở hai thế giới khác nhau. Trong khi cái sau tự hào có danh tiếng vô nhiễm và ưu ái các sinh viên đến từ những hoàn cảnh giàu có, thì cái trước lại là một tổ ấm cho những kẻ phạm tội ngu ngốc. Mọi người ở Kikyo đều nuôi dưỡng sự căm ghét sâu sắc đối với những người hàng xóm Chidori của họ.\nRintarou Tsumugi mười sáu tuổi là một sinh viên tại Chidori có khuôn mặt đáng sợ khiến mọi người tránh xa anh ta. Rintarou không bận tâm đến điều này, vì anh ấy hài lòng với nhóm bạn của mình. Tuy nhiên, có một điều anh ấy chưa nói với họ: đôi khi, anh ấy giúp việc tại cửa hàng bánh của gia đình.\nMột ngày tại nơi làm việc, Rintarou nhìn thấy một khách hàng ở bàn, nhưng cô ấy bỏ chạy trước khi anh ta có thể nói chuyện với cô ấy. Ngày hôm sau, anh nhận được lời xin lỗi từ cô gái, Kaoruko Waguri, người giải thích rằng cô không bỏ chạy vì ngoại hình của anh và cô tin rằng Rintarou là một người tốt bụng. Mặc dù không quen với tính cách tươi sáng của Kaoruko, Rintarou mong muốn hình thành tình bạn với cô ấy. Chỉ có một trở ngại cản đường anh ấy: Kaoruko là một học sinh Kikyo!",
+    "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
+    "episodes": [
+      { "ep_number": 1, "title": "Rintaro và Kaoruko", "ep_link": "https://short.icu/I1lcZlqmC" },
+      { "ep_number": 2, "title": "Chidori và Kikyo", "ep_link": "https://short.icu/scK2Jw82x" },
+      { "ep_number": 3, "title": "Một tâm hồn tốt bụng", "ep_link": "https://short.icu/vhmFhpe2J" },
+      { "ep_number": 4, "title": "Sự ấm áp của trái tim", "ep_link": "https://short.icu/Yr7oqeScj" },
+      { "ep_number": 5, "title": "Điềm báo về một khởi đầu mới", "ep_link": "https://short.icu/k3LNaxpiv" },
+      { "ep_number": 6, "title": "Tự ghét bản thân/anh yêu em!", "ep_link": "https://short.icu/KqHwXaEUn" }
+    ]
+  },
+  {
+    "id": "knyinfcastle",
+    "title": "Thanh Gươm Diệt Quỷ: Vô Hạn Thành",
+    "type": "movie",
+    "year": 2025,
+    "genres": ["Action", "Supernatural"],
+    "description": "",
+    "poster": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_dm.jpg",
+    "episodes": [
+      { "ep_number": 1, "title": "Full Movie 1 (Bản Cam 90%)", "ep_link": "https://short.icu/TDM5UmPDx" }
+    ]
+  }
+]
